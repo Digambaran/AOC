@@ -1,0 +1,1 @@
+/home/ushamma/Documents/dev/rust/advent_of_code/day_06/target/debug/day_06: /home/ushamma/Documents/dev/rust/advent_of_code/day_06/src/first.rs /home/ushamma/Documents/dev/rust/advent_of_code/day_06/src/main.rs /home/ushamma/Documents/dev/rust/advent_of_code/day_06/src/second.rs
